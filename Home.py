@@ -1,5 +1,5 @@
 import streamlit as st
-
+import pandas as pd
 # Başlık
 st.title("Merhaba, Fevziye Nur!")
 
