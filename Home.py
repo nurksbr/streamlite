@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 # Başlık
-st.title("Merhaba, Fevziye Nur!")
+st.title("Merhaba, Feyza Nur!")
 
 # Alt başlık
 st.subheader("Fevziye Nur ile Basit Bir Merhaba Sayfası")
