@@ -2,7 +2,7 @@ import streamlit as st
 import string
 import random
 
-st.title("Rastgele Şifre Üretici 🔐🔒👩🏻‍💻")
+st.title("Şifreni Merak Ediyorsan Haydi Başlayalım!.. 🔐🔒👩🏻‍💻")
 
 # Şifre uzunluğunu seçme
 length = st.slider("Şifre uzunluğunu seçin:", 4, 20, 12)
