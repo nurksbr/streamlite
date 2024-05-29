@@ -6,6 +6,3 @@ Pillow
 nltk
 seaborn
 matplotlib
-
-
-
