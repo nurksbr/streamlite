@@ -1,3 +1,6 @@
 streamlit
 pandas
-
+sumy
+sumy.parsers
+sumy.nlp.tokenizers
+sumy.summarizers.lsa
