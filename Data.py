@@ -1,9 +1,9 @@
+
 import streamlit as st
 import pandas as pd
 import numpy as np
 
-st.title("Veri Görselleştirmek İçin Hazırız... 📽
-📊")
+st.title("Veri Görselleştirmek İçin Hazırız... 📽")
 
 # Rastgele veri oluşturma
 data = pd.DataFrame({
