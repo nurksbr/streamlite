@@ -1,6 +1,10 @@
+
+
 streamlit
+requests
 pandas
+opencv-python
+Pillow
 sumy
-sumy.parsers
-sumy.nlp.tokenizers
-sumy.summarizers.lsa
+seaborn
+matplotlib
