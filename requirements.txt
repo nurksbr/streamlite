@@ -1,10 +1,11 @@
-
-
 streamlit
 requests
 pandas
 opencv-python
 Pillow
-sumy
+nltk
 seaborn
 matplotlib
+
+
+
